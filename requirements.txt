@@ -27,3 +27,5 @@ nbdime
 runipy
 colabcode
 keras-tuner
+capsa
+tensorflow-probability
